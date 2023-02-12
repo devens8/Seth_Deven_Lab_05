@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2b74638-4d69-4b01-b634-32a03f33c5ea" name="Changes" comment="Task#1">
-      <change afterPath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_05_03_PartyAffiliation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_05_04_TheaterKiosk.java" afterDir="false" />
+    <list default="true" id="b2b74638-4d69-4b01-b634-32a03f33c5ea" name="Changes" comment="Task#5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_05_NumCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_05_NumCompare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_05_04_TheaterKiosk">
+  <component name="RunManager" selected="Application.Lab_05_05_NumCompare">
     <configuration name="Lab_05_01_ShipCostCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_05_01_ShipCostCalculator" />
       <module name="Seth_Deven_Lab_05" />
@@ -70,8 +68,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_05_05_NumCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_05_05_NumCompare" />
+      <module name="Seth_Deven_Lab_05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_05_05_NumCompare" />
         <item itemvalue="Application.Lab_05_04_TheaterKiosk" />
         <item itemvalue="Application.Lab_05_03_PartyAffiliation" />
         <item itemvalue="Application.Lab_05_02_BirthMonth" />
@@ -102,11 +108,19 @@
       <option name="project" value="LOCAL" />
       <updated>1676207509111</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task#5">
+      <created>1676208923055</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676208923055</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task#1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task#1" />
+    <MESSAGE value="Task#5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task#5" />
   </component>
 </project>
