@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2b74638-4d69-4b01-b634-32a03f33c5ea" name="Changes" comment="Task#1" />
+    <list default="true" id="b2b74638-4d69-4b01-b634-32a03f33c5ea" name="Changes" comment="Task#1">
+      <change afterPath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_05_03_PartyAffiliation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_05_04_TheaterKiosk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lab_05_04_TheaterKiosk">
     <configuration name="Lab_05_01_ShipCostCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_05_01_ShipCostCalculator" />
       <module name="Seth_Deven_Lab_05" />
@@ -37,8 +49,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_05_02_BirthMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_05_02_BirthMonth" />
+      <module name="Seth_Deven_Lab_05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_05_03_PartyAffiliation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_05_03_PartyAffiliation" />
+      <module name="Seth_Deven_Lab_05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_05_04_TheaterKiosk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_05_04_TheaterKiosk" />
+      <module name="Seth_Deven_Lab_05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_05_04_TheaterKiosk" />
+        <item itemvalue="Application.Lab_05_03_PartyAffiliation" />
+        <item itemvalue="Application.Lab_05_02_BirthMonth" />
         <item itemvalue="Application.Lab_05_01_ShipCostCalculator" />
       </list>
     </recent_temporary>
@@ -59,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676207412806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task#1">
+      <created>1676207509111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676207509111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
