@@ -20,16 +20,16 @@ end class
     public static void main(String[] args) {
 
         String partyAffiliation;
-        System.out.println("Insert your party affiliation Please(D = Democrat, R = Republican, I = Independent):");
-        partyAffiliation = "D";
+        System.out.println("Insert your party affiliation Please(D = Democrat, R = Republican, I = Independent):"); //Prompts the user to insert party affiliation
+        partyAffiliation = "D"; //input
 
-        if(partyAffiliation  == "D"){
+        if(partyAffiliation.equals("D")){ //if democrat, print donkey
             System.out.println("You get a Democratic Donkey.");
-        } else if (partyAffiliation  == "R") {
+        } else if (partyAffiliation.equals("R")) { //if republican, print elephant
             System.out.println("You get a  Republican Elephant.");
-        }else if (partyAffiliation  == "I") {
+        } else if (partyAffiliation.equals("I")) { //if independent, print man
             System.out.println("You get a  Independant Man.");
-        }else {
+        }else { // The input is not one of the given choices -- print other
             System.out.println("You get something else.");
         }
 

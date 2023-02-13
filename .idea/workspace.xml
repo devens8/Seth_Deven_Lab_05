@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2b74638-4d69-4b01-b634-32a03f33c5ea" name="Changes" comment="Task#5">
+    <list default="true" id="b2b74638-4d69-4b01-b634-32a03f33c5ea" name="Changes" comment="complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_03_PartyAffiliation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_03_PartyAffiliation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_04_TheaterKiosk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_04_TheaterKiosk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab_05_05_NumCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_05_NumCompare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Lab_05_05_NumCompare">
+}</component>
+  <component name="RunManager" selected="Application.Lab_05_03_PartyAffiliation">
     <configuration name="Lab_05_01_ShipCostCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_05_01_ShipCostCalculator" />
       <module name="Seth_Deven_Lab_05" />
@@ -77,9 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_05_03_PartyAffiliation" />
         <item itemvalue="Application.Lab_05_05_NumCompare" />
         <item itemvalue="Application.Lab_05_04_TheaterKiosk" />
-        <item itemvalue="Application.Lab_05_03_PartyAffiliation" />
         <item itemvalue="Application.Lab_05_02_BirthMonth" />
         <item itemvalue="Application.Lab_05_01_ShipCostCalculator" />
       </list>
@@ -115,12 +119,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676208923055</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="complete">
+      <created>1676210185707</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676210185707</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task#1" />
     <MESSAGE value="Task#5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task#5" />
+    <MESSAGE value="complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete" />
   </component>
 </project>

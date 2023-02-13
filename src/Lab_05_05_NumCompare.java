@@ -24,18 +24,18 @@ public class Lab_05_05_NumCompare {
 
         double int1;
         double int2;
-        System.out.println("Insert the first number");
-        int1 = 19;
-        System.out.println("Insert the second number");
-        int2 = 19;
+        System.out.println("Insert the first number"); // Prompts user to insert first number
+        int1 = 19; //input
+        System.out.println("Insert the second number"); // Prompts user to insert second number
+        int2 = 19; //input
 
         if(int1 == int2){
             System.out.println("The two numbers are equal");
-        } else if (int1 < int2) {
+        } else if (int1 < int2) { //Checks if int1 is less than int 2, and outputs true/false
             System.out.println("The first number is less than the second number");
-        } else if(int2 < int1) {
+        } else if(int2 < int1) { //Checks if int2 is less than int 1, and outputs true/false
             System.out.println("The second number is less than the first number");
-        } else{
+        } else{ //if the input is not an int, then it will output error
             System.out.println("The inputted numbers are not valid. Please try again!");
         }
 

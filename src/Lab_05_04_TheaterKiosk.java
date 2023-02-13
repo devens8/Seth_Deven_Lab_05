@@ -16,9 +16,9 @@ public class Lab_05_04_TheaterKiosk {
     public static void main(String[] args) {
 
         int age;
-        System.out.println("Insert your age please");
-        age = 50;
-        if (age >= 21){
+        System.out.println("Insert your age please"); //Prompts the user to insert age
+        age = 50; //input
+        if (age >= 21){ //if the age is greater than 21, then give output
             System.out.println("Your get a wristband!");
         }
     }
